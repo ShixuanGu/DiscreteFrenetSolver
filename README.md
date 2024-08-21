@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DiscreteFrenetSolver
 
 DiscreteFrenetSolver is a Python package for computing the discrete Frenet frame (TNB frame) of a curve with numerical corrections. It handles edge cases such as straight segments and ensures orthogonality of the resulting frame for discrete curve data.
@@ -21,3 +22,6 @@ T, N, B = solve_frenet_frame(curve)
 print("Tangent vectors:", T)
 print("Normal vectors:", N)
 print("Binormal vectors:", B)
+=======
+# DiscreteFrenetSolver
+>>>>>>> origin/main
