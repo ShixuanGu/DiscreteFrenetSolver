@@ -1,13 +1,14 @@
 # DiscreteFrenetSolver
 
 [![PyPI version](https://badge.fury.io/py/discrete-frenet-solver.svg)](https://badge.fury.io/py/discrete-frenet-solver)
+![CI](https://github.com/ShixuanGu/DiscreteFrenetSolver/workflows/CI/badge.svg)
 
+[![codecov](https://codecov.io/gh/ShixuanGu/DiscreteFrenetSolver/branch/main/graph/badge.svg)](https://codecov.io/gh/ShixuanGu/DiscreteFrenetSolver)
 ![Python Versions](https://img.shields.io/pypi/pyversions/discrete-frenet-solver.svg)
-![Codecov](https://img.shields.io/codecov/c/github/ShixuanGu/DiscreteFrenetSolver.svg)
-![Build Status](https://img.shields.io/github/workflow/status/ShixuanGu/DiscreteFrenetSolver/CI.svg)
-
 
 DiscreteFrenetSolver is a Python package for computing the discrete Frenet frame (TNB frame) of a curve with numerical corrections. It handles edge cases such as straight segments and ensures orthogonality of the resulting frame for discrete curve data.
+
+While the current version provides core functionality, we are actively working on expanding and refining the package. Future updates will include additional features, performance optimizations, and expanded documentation. 
 
 ## Installation
 
